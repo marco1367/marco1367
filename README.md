@@ -15,5 +15,7 @@ Sequelize
 Contactame:
 
 email: demaiomarcopablo@gmail.com
+
 LinkedIn: www.linkedin.com/in/marco-pablo-demaio-full-stack-developer-est-ingeniería-industrial
+
 Tel: +54 2254 588680.
