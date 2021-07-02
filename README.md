@@ -11,6 +11,7 @@ Node JS
 Express
 Postgresql
 Sequelize
+
 Contactame:
 
 email: demaiomarcopablo@gmail.com
