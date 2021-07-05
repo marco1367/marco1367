@@ -17,8 +17,12 @@ Mi gran pasión y que me motiva a formarme en estas áreas es el poder integrar 
 Me considero una persona activa, curiosa, disciplinada, con ganas de incursionar en nuevos desafíos y principalmente poder formar parte de un grupo de trabajo multidisciplinario ya que es la única manera de generar grandes ideas a partir de diferentes perspectivas y áreas de conocimientos diferentes.
 
 Contacto:
+
 --Gmail: marcopablodemaio@gmail.com
+
 --Tel: +54 (02254) 15-588680
+
 --GitHub: https://github.com/marco1367
+
 LinkedIn: www.linkedin.com/in/marco-pablo-demaio-full-stack-developer-est-ingeniería-industrial
 
